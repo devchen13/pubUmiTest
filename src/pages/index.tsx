@@ -10,6 +10,9 @@ export default function HomePage() {
       <p>
         To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
       </p>
+      <div>
+        v2
+      </div>
     </div>
   );
 }
