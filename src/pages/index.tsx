@@ -11,7 +11,7 @@ export default function HomePage() {
         To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
       </p>
       <div>
-        v2
+        v3
       </div>
     </div>
   );
