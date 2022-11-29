@@ -1,4 +1,4 @@
-import yayJpg from '../assets/yay.jpg';
+import yayJpg from "../assets/yay.jpg";
 
 export default function HomePage() {
   return (
@@ -7,18 +7,19 @@ export default function HomePage() {
       <p>
         <img src={yayJpg} width="388" />
       </p>
-      <p>
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
-        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save to reload.
+      <p style={{ color: "red" }}>
+        To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save
+        to reload. To get started, edit <code>pages/issssss是是是ndex.tsx</code>{" "}
+        and save to reload. To get started, edit{" "}
+        <code>pages/issssss是是是ndex.tsx</code> and save to reload. To get
+        started, edit <code>pages/issssss是是是ndex.tsx</code> and save to
+        reload. To get started, edit <code>pages/issssss是是是ndex.tsx</code>{" "}
+        and save to reload. To get started, edit{" "}
+        <code>pages/issssss是是是ndex.tsx</code> and save to reload. To get
+        started, edit <code>pages/issssss是是是ndex.tsx</code> and save to
+        reload.
       </p>
-      <div>
-        v3
-      </div>
+      <div>v3</div>
     </div>
   );
 }
