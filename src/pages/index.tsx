@@ -7,7 +7,7 @@ export default function HomePage() {
       <p>
         <img src={yayJpg} width="388" />
       </p>
-      <p style={{ color: "red" }}>
+      <p style={{ color: "blue" }}>
         To get started, edit <code>pages/issssss是是是ndex.tsx</code> and save
         to reload. To get started, edit <code>pages/issssss是是是ndex.tsx</code>{" "}
         and save to reload. To get started, edit{" "}
